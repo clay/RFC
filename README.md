@@ -1,7 +1,7 @@
 RFC
 ===
 
-Clay Request for Comments Library
+## Clay Request for Comments Library
 
 This repository is intended to hold RFCs for the Clay Project and any of it's associated projects. The main idea is to document the design, implementation, and purpose of various facets of the Clay Project. The contents of an RFC is not meant to be removed from the document, once it is published (committed), it is part of the permanent record for that RFC.
 
@@ -11,11 +11,11 @@ RFCs can cover theory, specifications, protocals, inclusive implemenations, and 
 
 ### New RFCs
 
-## Contents
+#### Contents
 
 A new RFC should contain the author's name, current date, a short title, and a description.  It should be assigned an RFC id by YY-nnn ; this id is the current year, followed by a chronological RFC number.  So the first 3 RFCs will be: 14-001, 14-002, 14-003.  Once an RFC is considered established, it will be assigned an acceptance id and appear as nnn-YY-nnn: 001-14-001, for example.
 
-## File Name
+#### File Name
 
 An RFC should be named [short title]_[RFC id].md  For example: modules/RestServer_2014-054.md
 
