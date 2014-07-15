@@ -1,6 +1,3 @@
-RFC
-===
-
 ## Clay Request for Comments Library
 
 This repository is intended to hold RFCs for the Clay Project and any of it's associated projects. The main idea is to document the design, implementation, and purpose of various facets of the Clay Project. The contents of an RFC is not meant to be removed from the document, once it is published (committed), it is part of the permanent record for that RFC.
